@@ -3,35 +3,49 @@ layout: page
 title: About
 permalink: /about/
 ---
-### HELLO
-Nice to meet you  
-よろしくお願いします  
-很高興認識你
-
-### INTRO 
+## INTRO
 Mechatronics, LabVIEW & Controls Engineer specializing in hardware integration, API development, controller design and tuning (PID, lead/lag, notch).
 
-### SW
 
-| Language | Packages |
-|------------|------------|
-|LabVIEW| VDM, VISA, DAQmx, OpenG, MGI, LabSSH|
-|MATLAB | Simulink, System Identification Toolbox, Control System Toolbox, Robust Control Toolbox
-|Python | NumPy, Pandas, OpenCV, Keras, scikit-learn
+`Nice to meet you`  
+`よろしくお願いします`  
+`很高興認識你`
 
-### HW
-**Hobby-grade**  
-Arduino (Uno & Mega), Raspberry Pi (3B)  
 <br/>
-**Industrial**  
-Data Acquisition: NI PCIe, cDAQ  
-Motion Control: ACS MC4U, UHV MASC  
+<hr>
+<br/>
+
+## SW
+
+*LabVIEW*   
+VDM, VISA, DAQmx, OpenG, MGI, LabSSH
+
+*Python*  
+NumPy, Pandas, OpenCV, Keras, scikit-learn
+
+*MATLAB*   
+Simulink, System Identification Toolbox, Control System Toolbox, Robust Control Toolbox
+
+<br/>
+<hr>
+<br/>
+
+## HW
+Hobby-grade  
+Arduino (Uno & Mega), Raspberry Pi (3B)`
+
+Industrial   
+Data Acquisition: NI PCIe, cDAQ
+Motion Control: ACS MC4U, UHV MASC
 Sensor Interfacing: RS232, RS485, EtherCAT
 
-### LIKES
+<br/>
+<hr>
+<br/>
+
+## LIKES
+
 Illustration, Anime, VOCALOID
 
-
-
-
-
+<br/>
+<hr>
