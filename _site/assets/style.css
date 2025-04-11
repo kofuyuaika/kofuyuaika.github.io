@@ -7,7 +7,7 @@ input, select, textarea, button { font-family: inherit; font-size: inherit; line
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #ddd; background-color: #181818; }
+body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #c6c6c6; background-color: #1e1e1e; }
 
 p { margin-top: 0; margin-bottom: 0.5em; }
 
@@ -46,14 +46,14 @@ code { color: #777; font-size: 16px; padding: 1px 0px; }
 .prose blockquote p { font-size: 24px; }
 @media (min-width: 52em) { .prose blockquote { padding-left: 32px; margin: 64px 0 64px -40px; max-width: 110%; }
   .prose blockquote p { font-size: 32px; } }
-.prose hr { color: #ddd; border-style: solid; border-width: thin; margin-top: 0.5em; margin-bottom: 0.5em; }
+.prose hr { color: #c6c6c6; border-style: solid; border-width: thin; margin-top: 0.5em; margin-bottom: 0.5em; }
 .prose dt { font-weight: bold; font-style: italic; line-height: 1.25; }
 .prose dd { font-style: italic; margin-bottom: 0.5em; }
 .prose table { border-collapse: collapse; display: block; width: 100%; margin-bottom: 1.5em; overflow: auto; word-break: normal; word-break: keep-all; }
 .prose table th { font-weight: bold; text-align: left; }
-.prose table th, .prose table td { padding: 16px 32px 16px 2px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
-.prose table tr { background-color: #fff; border-top: 1px solid #ddd; }
-.prose table tr th { border-top: 2px solid #ddd; border-bottom: 2px solid #ddd; }
+.prose table th, .prose table td { padding: 16px 32px 16px 2px; border-top: 1px solid #c6c6c6; border-bottom: 1px solid #c6c6c6; }
+.prose table tr { background-color: #1e1e1e; border-top: 1px solid #c6c6c6; }
+.prose table tr th { border-top: 2px solid #c6c6c6; border-bottom: 2px solid #c6c6c6; }
 
 /* Type utilities */
 .h0 { font-size: 64px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
@@ -86,13 +86,13 @@ code { color: #777; font-size: 16px; padding: 1px 0px; }
 /* Theme color utilities */
 .header-background { background-color: #bbb; }
 
-.header-border { border-color: #181818; }
+.header-border { border-color: #1e1e1e; }
 
-.header-title { color: #181818; }
+.header-title { color: #1e1e1e; }
 
-.header-text { color: #181818; }
+.header-text { color: #1e1e1e; }
 
-.header-social { fill: #181818; }
+.header-social { fill: #1e1e1e; }
 
 .header-social-accent { fill: #fff; }
 
