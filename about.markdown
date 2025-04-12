@@ -6,7 +6,6 @@ permalink: /about/
 ## INTRO
 Mechatronics, LabVIEW & Controls Engineer specializing in hardware integration, API development, controller design and tuning (PID, lead/lag, notch).
 
-
 `Nice to meet you`  
 `よろしくお願いします`  
 `很高興認識你`
@@ -31,12 +30,12 @@ Simulink, System Identification Toolbox, Control System Toolbox, Robust Control 
 <br/>
 
 ## HW
-Hobby-grade  
-Arduino (Uno & Mega), Raspberry Pi (3B)`
+*Hobby-grade*  
+Arduino (Uno & Mega), Raspberry Pi (3B) 
 
-Industrial   
-Data Acquisition: NI PCIe, cDAQ
-Motion Control: ACS MC4U, UHV MASC
+*Industrial*  
+Data Acquisition: NI PCIe, cDAQ  
+Motion Control: ACS MC4U, UHV MASC  
 Sensor Interfacing: RS232, RS485, EtherCAT
 
 <br/>
