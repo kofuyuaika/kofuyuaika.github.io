@@ -51,8 +51,8 @@
 /* Layout utilities */
 .container { max-width: $container-width; }
 .title-image { display: grid; place-items: center; }
-.title-image img { grid-area: 1/1; width:100%}
-.overlay-text { grid-area: 1/1;}
+.title-image img { grid-area: 1/1;}
+.overlay-text { grid-area: 1/1; }
 
 .col-1 { width: (1 / 12 * 100%); }
 .col-2 { width: (2 / 12 * 100%); }
