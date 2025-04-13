@@ -42,6 +42,7 @@ Gadgets with Arduino + Raspberry Pi 3B
 
 Illustration  
 Manga  
+Anime  
 Rhythm games   
 VOCALOID  
 NIJISANJI
