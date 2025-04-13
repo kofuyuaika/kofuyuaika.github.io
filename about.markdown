@@ -4,39 +4,35 @@ title: About
 permalink: /about/
 ---
 ## INTRO
-Mechatronics, LabVIEW & Controls Engineer specializing in hardware integration, API development, controller design and tuning (PID, lead/lag, notch).
+Mechatronics engineer specializing in hardware integration, API development, controller design and tuning (PID, lead/lag, notch).
 
-`Nice to meet you`  
-`よろしくお願いします`  
-`很高興認識你`
-
-<br/>
-<hr>
-<br/>
-
-## SW
-
-*LabVIEW*   
-VDM, VISA, DAQmx, OpenG, MGI, LabSSH
-
-*Python*  
-NumPy, Pandas, OpenCV, Keras, scikit-learn
-
-*MATLAB*   
-Simulink, System Identification Toolbox, Control System Toolbox, Robust Control Toolbox
+`Nice to meet you!`  
+`よろしくお願いします！`  
+`很高興認識你！`
 
 <br/>
 <hr>
 <br/>
 
-## HW
-*Hobby-grade*  
-Arduino (Uno & Mega), Raspberry Pi (3B) 
+## SOFTWARE
+Presently working in hardware interfacing, with previous experience in computer vision and machine learning from academic research.
 
-*Industrial*  
-Data Acquisition: NI PCIe, cDAQ  
-Motion Control: ACS MC4U, UHV MASC  
-Sensor Interfacing: RS232, RS485, EtherCAT
+*LabVIEW*: VDM, VISA (RS232, RS485, Ethernet, USB), DAQmx, OpenG, MGI, LabSSH
+
+*Python*: NumPy, Pandas, OpenCV, Keras, scikit-learn
+
+Also familiar with control architecture design in MATLAB, including PID, lead, lag, notch, H-2, H-inf, MPC.
+
+<br/>
+<hr>
+<br/>
+
+## HARDWARE
+3D modeling in Creo & SolidWorks  
+CFD in Ansys Fluent  
+Sensor and actuator integration in LabVIEW  
+Gantry stage tuning with MATLAB and SPiiPlus  
+Gadgets with Arduino + Raspberry Pi 3B
 
 <br/>
 <hr>
@@ -44,7 +40,11 @@ Sensor Interfacing: RS232, RS485, EtherCAT
 
 ## LIKES
 
-Illustration, Anime, VOCALOID
+Illustration  
+Manga  
+Rhythm games   
+VOCALOID  
+NIJISANJI
 
 <br/>
 <hr>
