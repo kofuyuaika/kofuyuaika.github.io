@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## INTRO
-Mechatronics engineer specializing in hardware integration, API development, controller design and tuning (PID, lead/lag, notch).
+I am a mechatronics engineer specializing in hardware integration, API development, controller design and tuning, with previous experience in computer vision and machine learning from academic research.
 
 `Nice to meet you!`  
 `よろしくお願いします！`  
@@ -15,24 +15,24 @@ Mechatronics engineer specializing in hardware integration, API development, con
 <br/>
 
 ## SOFTWARE
-Presently working in hardware interfacing, with previous experience in computer vision and machine learning from academic research.
 
-*LabVIEW*: VDM, VISA (RS232, RS485, Ethernet, USB), DAQmx, OpenG, MGI, LabSSH
-
-*Python*: NumPy, Pandas, OpenCV, Keras, scikit-learn
-
-Also familiar with control architecture design in MATLAB, including PID, lead, lag, notch, H-2, H-inf, MPC.
+*LabVIEW*  
+*Python*  
+*MATLAB*
 
 <br/>
 <hr>
 <br/>
 
 ## HARDWARE
-3D modeling in Creo & SolidWorks  
-CFD in Ansys Fluent  
-Sensor and actuator integration in LabVIEW  
-Gantry stage tuning with MATLAB and SPiiPlus  
-Gadgets with Arduino + Raspberry Pi 3B
+CAD  
+CFD  
+Sensor and actuator integration  
+Gantry stage tuning  
+LightBurn  
+DAQ  
+Arduino  
+Raspberry Pi 3b
 
 <br/>
 <hr>
