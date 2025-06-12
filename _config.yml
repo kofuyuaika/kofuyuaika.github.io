@@ -24,7 +24,7 @@ description: works archive
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kofuyuaika.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rimi404
+twitter_username: 404
 github_username:  kofuyuaika
 
 # Build settings
